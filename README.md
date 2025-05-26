@@ -32,7 +32,7 @@ To leverage my education and foundational skills in IT and cybersecurity to prot
 
 | Certification | Badge |
 |---------------|--------|
-| CompTIA Security+ |[![CompTIA Security+](https://images.credly.com/size/220x220/images/70ac92f5-b1d9-41f7-81b1-997866e15c61/comptia-security-ce-certification.png)](https://www.credly.com/badges/07dc063f-4cd4-490e-aafc-1f5f02906290/public_url)|
+[![CompTIA Security+](./securityplus.png)](https://www.credly.com/badges/07dc063f-4cd4-490e-aafc-1f5f02906290/public_url)
 
 
 
