@@ -39,17 +39,9 @@ To leverage my education and foundational skills in IT and cybersecurity to prot
 
 ## 🚀 Projects
 
-### 🔍 Vulnerability Assessment (Nessus)
-Scanned a Windows VM for vulnerabilities using Nessus, documented CVEs, and proposed remediations.  
-📎 [View Repo](https://github.com/natnael75/vuln-assessment) *(Add this when ready)*
-
-### 🌐 Python Port Scanner
-A simple Python-based TCP port scanner with logging features.  
-📎 [View Repo](https://github.com/natnael75/python-port-scanner)
-
-### 📊 Wireshark Packet Analysis
-Captured and analyzed HTTP/FTP traffic, labeled suspicious patterns, and identified potential misconfigurations.  
-📎 [View Repo](https://github.com/natnael75/wireshark-analysis)
+### 🔍 Cowrie Honeypot Deployment on Kali Linux
+Deployed a Cowrie honeypot on a Kali Linux VM (UTM) to simulate a vulnerable SSH server, capture unauthorized login attempts, and analyze attacker behavior through log files.
+📎 [View Repo](https://github.com/natnael75/cowrie-honeypot-kali) 
 
 ---
 
