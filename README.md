@@ -43,6 +43,10 @@ To leverage my education and foundational skills in IT and cybersecurity to prot
 Deployed a Cowrie honeypot on a Kali Linux VM (UTM) to simulate a vulnerable SSH server, capture unauthorized login attempts, and analyze attacker behavior through log files.
 📎 [View Repo](https://github.com/natnael75/cowrie-honeypot-kali) 
 
+### 🔍 Network Traffic Analysis (VM Lab)
+Analyzed network traffic in a Kali Linux VM using tcpdump and Wireshark to capture live packets, inspect protocols like DNS and HTTP, and practice fundamental network forensics techniques.
+📎 [View Repo](https://github.com/natnael75/network-traffic-analysis) 
+
 ---
 
 ## 📫 Contact
